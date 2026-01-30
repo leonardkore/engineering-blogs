@@ -39,8 +39,8 @@ Rules:
 - Multiple blogs must be pipe‑separated; link text must be a topic label
   - Example: `- **Company** — [ml](...) | [security](...) — Tags: ...`
 - Omit any unknown tag brackets (tagless entries are allowed)
-- Add `[lang: xx]` only if the blog is predominantly non‑English
-- Use `[lang: mixed]` only if content is predominantly non‑English and mixed
+- Add `[lang: Language]` only if the blog is predominantly non‑English (e.g., `Polish`, `French`)
+- Use `[lang: Mixed]` only if content is predominantly non‑English and mixed
 
 ## Tags
 
@@ -48,9 +48,9 @@ Rules:
 
 **Sector (required list):** consumer, enterprise, fintech, health, ecommerce, media, devtools, gaming, edtech
 
-**Region (required list):** na, latam, emea, apac, global
+**Region (required list):** north-america, latin-america, europe-middle-east-africa, asia-pacific, global
 
-New tags require maintainer approval. If a new tag is approved, update the **Tag Glossary** and **indexes** in the same PR.
+New tags require maintainer approval. If a new tag is approved, update the **indexes** in the same PR.
 
 ## Mirrors
 
