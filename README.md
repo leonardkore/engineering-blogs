@@ -2,6 +2,10 @@
 
 A curated, browsable list of official engineering blogs from companies around the world.
 
+## About
+
+This repository is a verified directory of official engineering blogs, with tags and indexes for fast browsing.
+
 **How to use this directory:**
 - Scan the A–Z company list to find a specific organization.
 - Use the indexes to browse by topic, sector, or region.
@@ -256,7 +260,6 @@ Please include evidence links in your PR description and check the verification 
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
 
 
 
