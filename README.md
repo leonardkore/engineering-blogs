@@ -41,8 +41,8 @@ Last updated: 2026-01-30
 
 ## Region Index
 
-- **apac**: [Baidu Research](#baidu-research), [Canva](#canva), [Codementor](#codementor), [Grab](#grab), [LINE](#line)
-- **emea**: [8th Light](#8th-light), [Algolia](#algolia), [Babbel](#babbel), [Badoo](#badoo), [Booking.com](#bookingcom), [Brandwatch](#brandwatch), [Capgemini](#capgemini), [Clever](#clever), [Coolblue](#coolblue), [Finn.no](#finnno), [Firmafon](#firmafon), [Future Processing](#future-processing), [Intercom](#intercom), [OpenTable UK](#opentable-uk)
+- **asia-pacific**: [Baidu Research](#baidu-research), [Canva](#canva), [Codementor](#codementor), [Grab](#grab), [LINE](#line)
+- **europe-middle-east-africa**: [8th Light](#8th-light), [Algolia](#algolia), [Babbel](#babbel), [Badoo](#badoo), [Booking.com](#bookingcom), [Brandwatch](#brandwatch), [Capgemini](#capgemini), [Clever](#clever), [Coolblue](#coolblue), [Finn.no](#finnno), [Firmafon](#firmafon), [Future Processing](#future-processing), [Intercom](#intercom), [OpenTable UK](#opentable-uk)
 - **global**: [Airbnb](#airbnb), [Atlassian](#atlassian), [AWS](#aws), [Cloudflare](#cloudflare), [Docker](#docker), [Dropbox](#dropbox), [Facebook](#facebook), [GitHub](#github), [Heroku](#heroku), [LinkedIn](#linkedin), [Okta](#okta)
 - **latin-america**: [Affinity](#affinity), [Elastic](#elastic)
 - **north-america**: [500px](#500px), [99designs](#99designs), [Artsy](#artsy), [Asana](#asana), [Atomic Object](#atomic-object), [Auth0](#auth0), [Azavea](#azavea), [Bandcamp](#bandcamp), [Bazaarvoice](#bazaarvoice), [Benchling](#benchling), [Bigcommerce](#bigcommerce), [Bitly](#bitly), [Buzzfeed](#buzzfeed), [Cerner](#cerner), [CleverTap](#clevertap), [Commercetools](#commercetools), [Deezer](#deezer), [Deliveroo](#deliveroo), [DigitalOcean](#digitalocean), [Ebay](#ebay), [eFounders](#efounders), [Entelo](#entelo), [Etsy](#etsy), [Flickr](#flickr), [Instacart](#instacart), [Instagram](#instagram), [Intuit](#intuit), [Khan Academy](#khan-academy), [Lyft](#lyft), [OpenTable](#opentable)
@@ -56,7 +56,7 @@ Allowed: backend, frontend, mobile, data, ml, sre, security, infra.
 Allowed: consumer, enterprise, fintech, health, ecommerce, media, devtools, gaming, edtech.
 
 **Region** — HQ or primary operating region (use `global` for truly global publishers).
-Allowed: north-america, latin-america, emea, apac, global.
+Allowed: north-america, latin-america, europe-middle-east-africa, asia-pacific, global.
 
 **Language** — Use ISO 639-1 codes for predominantly non‑English blogs; use `mixed` for mixed content.
 Allowed: lang: xx, lang: mixed.
@@ -68,7 +68,7 @@ Allowed: lang: xx, lang: mixed.
 
 ### #
 - <a id="500px"></a> **500px** — [blog](https://developers.500px.com/) — Tags: [sector: consumer] [region: north-america]
-- <a id="8th-light"></a> **8th Light** — [blog](https://8thlight.com/blog/) — Tags: [region: emea]
+- <a id="8th-light"></a> **8th Light** — [blog](https://8thlight.com/blog/) — Tags: [region: europe-middle-east-africa]
 - <a id="99designs"></a> **99designs** — [blog](https://99designs.com/tech-blog/) — Tags: [region: north-america]
 
 ### A
@@ -76,7 +76,7 @@ Allowed: lang: xx, lang: mixed.
 - <a id="affinity"></a> **Affinity** — [blog](https://build.affinity.co/) — Tags: [region: latin-america]
 - <a id="airbnb"></a> **Airbnb** — [blog](https://medium.com/airbnb-engineering) — Tags: [topic: backend] [sector: consumer] [region: global]
 - <a id="airbrake"></a> **Airbrake** — [blog](https://airbrake.io/blog/) — Tags: [topic: ml]
-- <a id="algolia"></a> **Algolia** — [blog](https://blog.algolia.com/) — Tags: [sector: devtools] [region: emea]
+- <a id="algolia"></a> **Algolia** — [blog](https://blog.algolia.com/) — Tags: [sector: devtools] [region: europe-middle-east-africa]
 - <a id="allegrotech"></a> **Allegro.tech** — [blog](https://allegro.tech) — Tags: [lang: pl]
 - <a id="arkency"></a> **Arkency** — [blog](http://blog.arkency.com/)
 - <a id="artsy"></a> **Artsy** — [blog](http://artsy.github.io/) — Tags: [sector: devtools] [region: north-america]
@@ -87,10 +87,10 @@ Allowed: lang: xx, lang: mixed.
 - <a id="avenue-code"></a> **Avenue Code** — [blog](http://blog.avenuecode.com/)
 - <a id="aws"></a> **AWS** — [blog](https://aws.amazon.com/blogs/aws/) — Tags: [topic: infra] [sector: enterprise] [region: global]
 - <a id="azavea"></a> **Azavea** — [blog](https://www.azavea.com/blog/category/software-development/) — Tags: [region: north-america]
-- <a id="babbel"></a> **Babbel** — [blog](https://bytes.babbel.com/en/) — Tags: [sector: edtech] [region: emea]
+- <a id="babbel"></a> **Babbel** — [blog](https://bytes.babbel.com/en/) — Tags: [sector: edtech] [region: europe-middle-east-africa]
 - <a id="backtrace"></a> **Backtrace** — [blog](https://backtrace.io/blog/)
-- <a id="badoo"></a> **Badoo** — [blog](https://techblog.badoo.com/) — Tags: [sector: consumer] [region: emea]
-- <a id="baidu-research"></a> **Baidu Research** — [blog](http://research.baidu.com/Blog) — Tags: [topic: ml] [region: apac]
+- <a id="badoo"></a> **Badoo** — [blog](https://techblog.badoo.com/) — Tags: [sector: consumer] [region: europe-middle-east-africa]
+- <a id="baidu-research"></a> **Baidu Research** — [blog](http://research.baidu.com/Blog) — Tags: [topic: ml] [region: asia-pacific]
 - <a id="bandcamp"></a> **Bandcamp** — [blog](https://bandcamptech.wordpress.com/) — Tags: [sector: media] [region: north-america]
 - <a id="base-lab"></a> **Base Lab** — [blog](https://lab.getbase.com/category/engineering/)
 - <a id="bazaarvoice"></a> **Bazaarvoice** — [blog](https://blog.developer.bazaarvoice.com/) — Tags: [sector: devtools] [region: north-america]
@@ -102,21 +102,21 @@ Allowed: lang: xx, lang: mixed.
 - <a id="bittorrent"></a> **BitTorrent** — [blog](http://engineering.bittorrent.com/)
 - <a id="blender"></a> **Blender** — [blog](https://code.blender.org/) — Tags: [sector: devtools]
 - <a id="blogfoster"></a> **Blogfoster** — [blog](http://engineering.blogfoster.com/)
-- <a id="bookingcom"></a> **Booking.com** — [blog](https://blog.booking.com/) — Tags: [topic: backend] [sector: consumer] [region: emea]
-- <a id="brandwatch"></a> **Brandwatch** — [blog](http://engineering.brandwatch.com/) — Tags: [sector: enterprise] [region: emea]
+- <a id="bookingcom"></a> **Booking.com** — [blog](https://blog.booking.com/) — Tags: [topic: backend] [sector: consumer] [region: europe-middle-east-africa]
+- <a id="brandwatch"></a> **Brandwatch** — [blog](http://engineering.brandwatch.com/) — Tags: [sector: enterprise] [region: europe-middle-east-africa]
 - <a id="buzzfeed"></a> **Buzzfeed** — [blog](https://www.buzzfeed.com/techblog) — Tags: [sector: media] [region: north-america]
-- <a id="canva"></a> **Canva** — [blog](https://engineering.canva.com) — Tags: [sector: devtools] [region: apac]
-- <a id="capgemini"></a> **Capgemini** — [blog](https://capgemini.github.io/) — Tags: [region: emea]
+- <a id="canva"></a> **Canva** — [blog](https://engineering.canva.com) — Tags: [sector: devtools] [region: asia-pacific]
+- <a id="capgemini"></a> **Capgemini** — [blog](https://capgemini.github.io/) — Tags: [region: europe-middle-east-africa]
 - <a id="cerner"></a> **Cerner** — [blog](http://engineering.cerner.com/) — Tags: [region: north-america]
 - <a id="chef"></a> **Chef** — [blog](https://blog.chef.io)
-- <a id="clever"></a> **Clever** — [blog](https://engineering.clever.com/) — Tags: [region: emea]
+- <a id="clever"></a> **Clever** — [blog](https://engineering.clever.com/) — Tags: [region: europe-middle-east-africa]
 - <a id="clevertap"></a> **CleverTap** — [blog](https://clevertap.com/blog/tag/engineering/) — Tags: [region: north-america]
 - <a id="cloudera"></a> **Cloudera** — [blog](https://blog.cloudera.com/) — Tags: [topic: infra]
 - <a id="cloudflare"></a> **Cloudflare** — [blog](https://blog.cloudflare.com/) — Tags: [topic: security] [sector: enterprise] [region: global]
 - <a id="cockroachdb"></a> **CockroachDB** — [blog](https://www.cockroachlabs.com/blog/)
 - <a id="codelitt"></a> **Codelitt** — [blog](https://www.codelitt.com/blog/)
 - <a id="codemancers"></a> **Codemancers** — [blog](https://crypt.codemancers.com/)
-- <a id="codementor"></a> **Codementor** — [blog](https://www.codementor.io/tutorial) — Tags: [region: apac]
+- <a id="codementor"></a> **Codementor** — [blog](https://www.codementor.io/tutorial) — Tags: [region: asia-pacific]
 - <a id="codename-one"></a> **CodeName One** — [blog](http://www.codenameone.com/blog.html) — Tags: [topic: ml]
 - <a id="codeship"></a> **Codeship** — [blog](https://blog.codeship.com/)
 - <a id="collective-idea"></a> **Collective Idea** — [blog](https://collectiveidea.com/blog)
@@ -124,7 +124,7 @@ Allowed: lang: xx, lang: mixed.
 - <a id="cond-nast"></a> **Condé Nast** — [blog](https://technology.condenast.com/)
 - <a id="confluent"></a> **Confluent** — [blog](https://www.confluent.io/blog)
 - <a id="convox"></a> **Convox** — [blog](https://convox.com/blog)
-- <a id="coolblue"></a> **Coolblue** — [blog](http://devblog.coolblue.nl/) — Tags: [region: emea]
+- <a id="coolblue"></a> **Coolblue** — [blog](http://devblog.coolblue.nl/) — Tags: [region: europe-middle-east-africa]
 - <a id="crowdfire"></a> **Crowdfire** — [blog](https://crowdfire.engineering/)
 - <a id="csc---it-center-for-science---cloud-team"></a> **CSC - IT Center For Science - Cloud Team** — [blog](https://cloud.blog.csc.fi/) — Tags: [topic: infra]
 - <a id="curalate"></a> **Curalate** — [blog](http://engineering.curalate.com/)
@@ -155,13 +155,13 @@ Allowed: lang: xx, lang: mixed.
 - <a id="faraday"></a> **Faraday** — [blog](http://blog.faraday.io/)
 - <a id="feedzai"></a> **Feedzai** — [blog](https://medium.com/feedzaitech) — Tags: [topic: ml]
 - <a id="findmypast"></a> **Findmypast** — [blog](http://tech.findmypast.com/)
-- <a id="finnno"></a> **Finn.no** — [blog](http://tech.finn.no/) — Tags: [region: emea]
-- <a id="firmafon"></a> **Firmafon** — [blog](https://dev.firmafon.dk/blog/) — Tags: [region: emea]
+- <a id="finnno"></a> **Finn.no** — [blog](http://tech.finn.no/) — Tags: [region: europe-middle-east-africa]
+- <a id="firmafon"></a> **Firmafon** — [blog](https://dev.firmafon.dk/blog/) — Tags: [region: europe-middle-east-africa]
 - <a id="flickr"></a> **Flickr** — [blog](http://code.flickr.net/) — Tags: [region: north-america]
 - <a id="flipboard"></a> **Flipboard** — [blog](http://engineering.flipboard.com/)
 - <a id="foursquare"></a> **Foursquare** — [blog](https://engineering.foursquare.com/)
 - <a id="freeletics"></a> **Freeletics** — [blog](https://freeletics.engineering/)
-- <a id="future-processing"></a> **Future Processing** — [blog](https://www.future-processing.pl/technical-blog/) — Tags: [region: emea]
+- <a id="future-processing"></a> **Future Processing** — [blog](https://www.future-processing.pl/technical-blog/) — Tags: [region: europe-middle-east-africa]
 - <a id="galois"></a> **Galois** — [blog](https://galois.com/blog/)
 - <a id="gamechanger"></a> **GameChanger** — [blog](http://tech.gc.com/)
 - <a id="github"></a> **GitHub** — [blog](https://githubengineering.com/) — Tags: [topic: backend] [sector: devtools] [region: global]
@@ -171,7 +171,7 @@ Allowed: lang: xx, lang: mixed.
 - <a id="good-eggs"></a> **Good Eggs** — [blog](https://team.goodeggs.com)
 - <a id="google-online-security"></a> **Google Online Security** — [blog](https://security.googleblog.com/) — Tags: [topic: security]
 - <a id="google-research"></a> **Google Research** — [blog](https://research.googleblog.com/)
-- <a id="grab"></a> **Grab** — [blog](http://engineering.grab.com/) — Tags: [topic: mobile] [sector: consumer] [region: apac]
+- <a id="grab"></a> **Grab** — [blog](http://engineering.grab.com/) — Tags: [topic: mobile] [sector: consumer] [region: asia-pacific]
 - <a id="grafana"></a> **Grafana** — [blog](https://grafana.com/blog/)
 - <a id="grammarly"></a> **Grammarly** — [blog](https://tech.grammarly.com/blog/index.html) — Tags: [topic: ml]
 - <a id="grofers"></a> **Grofers** — [blog](https://lambda.grofers.com/)
@@ -201,7 +201,7 @@ Allowed: lang: xx, lang: mixed.
 - <a id="instagram"></a> **Instagram** — [blog](https://engineering.instagram.com/) — Tags: [region: north-america]
 - <a id="intel"></a> **Intel** — [blog](https://software.intel.com/en-us/blogs/)
 - <a id="intent-media"></a> **Intent Media** — [blog](http://intentmedia.com/blog/)
-- <a id="intercom"></a> **Intercom** — [blog](https://engineering.intercom.io/) — Tags: [topic: backend] [sector: enterprise] [region: emea]
+- <a id="intercom"></a> **Intercom** — [blog](https://engineering.intercom.io/) — Tags: [topic: backend] [sector: enterprise] [region: europe-middle-east-africa]
 - <a id="intuit"></a> **Intuit** — [blog](https://quickbooks-engineering.intuit.com/) — Tags: [region: north-america]
 - <a id="jane-street"></a> **Jane Street** — [blog](https://blogs.janestreet.com/category/ocaml/) — Tags: [topic: ml]
 - <a id="jobandtalent"></a> **Jobandtalent** — [blog](https://jobandtalent.engineering/)
@@ -213,7 +213,7 @@ Allowed: lang: xx, lang: mixed.
 - <a id="kogancom"></a> **Kogan.com** — [blog](https://devblog.kogan.com/)
 - <a id="kolosek"></a> **Kolosek** — [blog](https://kolosek.com/blog/)
 - <a id="lendinghome"></a> **LendingHome** — [blog](https://tech.lendinghome.com/)
-- <a id="line"></a> **LINE** — [blog](https://engineering.linecorp.com/en/blog) — Tags: [topic: mobile] [sector: consumer] [region: apac]
+- <a id="line"></a> **LINE** — [blog](https://engineering.linecorp.com/en/blog) — Tags: [topic: mobile] [sector: consumer] [region: asia-pacific]
 - <a id="linkedin"></a> **LinkedIn** — [blog](https://engineering.linkedin.com/blog) — Tags: [topic: data] [sector: enterprise] [region: global]
 - <a id="livechat"></a> **LiveChat** — [blog](https://developers.livechatinc.com/blog/)
 - <a id="liveramp"></a> **LiveRamp** — [blog](https://liveramp.com/engineering/)
@@ -242,7 +242,7 @@ Allowed: lang: xx, lang: mixed.
 - <a id="opendns"></a> **OpenDNS** — [blog](https://engineering.opendns.com/)
 - <a id="opensooq"></a> **Opensooq** — [blog](http://engineering.opensooq.com/)
 - <a id="opentable"></a> **OpenTable** — [blog](http://tech.opentable.com/) — Tags: [topic: backend] [sector: consumer] [region: north-america]
-- <a id="opentable-uk"></a> **OpenTable UK** — [blog](http://tech.opentable.co.uk/) — Tags: [region: emea]
+- <a id="opentable-uk"></a> **OpenTable UK** — [blog](http://tech.opentable.co.uk/) — Tags: [region: europe-middle-east-africa]
 
 ## Contributing
 
